@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer looking to learn new th
 • 🌱 Currently learning more about front-end development and web development.
 • 🤝 Looking to collaborate on open-source projects and innovative startups.
 • 💬 Ask me about Python, JavaScript, and web development frameworks.
-• 📫 How to reach me: nana.kofi.agyin@example.com
+• 📫 How to reach me: malvinamoah059@gmail.com
 • ⚡ Fun fact: I love watching movies and researching to solve problems in my free time.
 
 ## 🛠️ Technologies & Tools
