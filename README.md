@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![GitHub Stars](https://img.shields.io/github/stars/Nana-Kofi-Agyin?style=for-the-badge&color=3b82f6)](https://github.com/Nana-Kofi-Agyin?tab=repositories)
+
 
 </div>
 
