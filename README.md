@@ -8,8 +8,6 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=Nana-Kofi-Agyin&color=3b82f6&style=for-the-badge)](https://github.com/Nana-Kofi-Agyin)
-[![GitHub Followers](https://img.shields.io/github/followers/Nana-Kofi-Agyin?style=for-the-badge&color=3b82f6)](https://github.com/Nana-Kofi-Agyin?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Nana-Kofi-Agyin?style=for-the-badge&color=3b82f6)](https://github.com/Nana-Kofi-Agyin?tab=repositories)
 
 </div>
