@@ -1,6 +1,4 @@
-Use this — I swapped in your avatar id (`1036034658`) and your GitHub username (`Nana-Kofi-Agyin`) everywhere `YOUR_*` appeared. Paste into `README.md`.
 
-```markdown name=README.md
 <div align="center">
   <img height="220" src="https://avatars.githubusercontent.com/u/1036034658?v=4" alt="Nana Kofi" style="border-radius: 50%; border: 4px solid #00C3FF; box-shadow: 0 0 20px #00C3FF;" />
   
@@ -65,6 +63,5 @@ I'm currently strengthening my core full-stack skills while gradually exploring 
 ---
 
 **<span style="color: #00FFEA;">BUILDING SCALABLE SOFTWARE TODAY, INTELLIGENT SYSTEMS TOMORROW.</span>**
-```
 
-If you send your real LinkedIn/portfolio/X/email, I’ll replace those placeholders too.
+
