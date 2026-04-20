@@ -1,151 +1,70 @@
-# <div align="center">👋 Hi, I'm Nana-Kofi Agyin</div>
+Use this — I swapped in your avatar id (`1036034658`) and your GitHub username (`Nana-Kofi-Agyin`) everywhere `YOUR_*` appeared. Paste into `README.md`.
+
+```markdown name=README.md
+<div align="center">
+  <img height="220" src="https://avatars.githubusercontent.com/u/1036034658?v=4" alt="Nana Kofi" style="border-radius: 50%; border: 4px solid #00C3FF; box-shadow: 0 0 20px #00C3FF;" />
+  
+  <h1 style="color: #00FFEA; font-size: 2.8rem; letter-spacing: 2px; margin: 15px 0;">
+    HEY, I'M NANA KOFI ⚡
+  </h1>
+  
+  <p style="font-size: 1.4rem; color: #A0F0FF; max-width: 680px; margin: 10px auto;">
+    <strong>SOFTWARE ENGINEER &amp; FULL-STACK DEVELOPER</strong><br>
+    Building scalable, modern applications with an eye on intelligent systems.
+  </p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=1800&color=00FFEA&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;Crafting+end-to-end+web+and+mobile+solutions;Exploring+AI+integration+and+intelligent+systems;Always+learning+what's+next" alt="Typing SVG" />
+</div>
+
+<br>
+
+### ABOUT ME
+I'm a passionate Software Engineer specializing in full-stack development. I enjoy designing and building complete, scalable applications from intuitive interfaces to robust backends.
+
+I'm currently strengthening my core full-stack skills while gradually exploring AI integration to build smarter and more capable applications in the near future.
+
+- 🔭 **Currently working on**: Modern full-stack applications and cloud-native solutions  
+- 🌱 **Currently exploring**: AI integration, agentic systems, cloud architectures, and advanced development tools  
+- 👯 **Looking to collaborate on**: Web & mobile projects, open-source work, or innovative tech solutions  
+- 💬 **Ask me about**: React/Next.js, TypeScript, Node.js, Python, API design, databases, or full-stack architecture  
+- 📍 **Open to** remote and international opportunities
+
+### 🛠️ TECH STACK
+
+**Frontend & UI**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,shadcn" />
+
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=nodejs,python,nestjs,fastapi,postgresql,mongodb,redis" />
+
+**Cloud, Tools & AI**  
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,supabase,langchain,git,githubactions" />
+
+### 📊 GITHUB ACTIVITY & STATS
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Nana-Kofi-Agyin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-Kofi-Agyin&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nana-Kofi-Agyin&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Nana-Kofi-Agyin&theme=radical&no-frame=true&margin-w=15&column=3" alt="GitHub Trophies" />
+
+  <img src="https://komarev.com/ghpvc/?username=Nana-Kofi-Agyin&label=PROFILE%20VIEWS&color=00FFEA&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<div align="center">
-  
-
-
-</div>
+### 📫 LET'S CONNECT!
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌐 [Portfolio](https://yourwebsite.com)  
+- 🐦 [X / Twitter](https://x.com/yourhandle)  
+- 📧 [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const nanaKofi = {
-    role: "Full-Stack Developer",
-    location: "🌍 Earth",
-    education: "Student",
-    interests: ["Web Development", "Open Source", "Problem Solving"],
-    currentFocus: "Building impactful web applications",
-    funFact: "I love watching movies and researching solutions to complex problems",
-    reachOut: "malvinamoah059@gmail.com"
-};
+**<span style="color: #00FFEA;">BUILDING SCALABLE SOFTWARE TODAY, INTELLIGENT SYSTEMS TOMORROW.</span>**
 ```
 
-- 💻 Passionate about **full-stack development** and creating seamless user experiences
-- 🌱 Currently diving deep into **modern front-end frameworks** and **web technologies**
-- 🤝 Open to collaborating on **open-source projects** and **innovative startups**
-- 💬 Ask me about **Python**, **JavaScript**, **React**, and **web development**
-- 📫 Reach me at: **malvinamoah059@gmail.com**
-- ⚡ Fun fact: I love **watching movies** and **researching to solve problems**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nana-Kofi-Agyin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nana-Kofi-Agyin&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-Kofi-Agyin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nana-Kofi-Agyin&theme=tokyo-night&hide_border=true&border_radius=10&area=true" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Nana-Kofi-Agyin&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7)
-
-</div>
-
----
-
-## 🎯 Current Goals for 2026
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" /><br>
-<b>Master React Ecosystem</b><br>
-<sub>Next.js, Redux, React Query</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" /><br>
-<b>Learn TypeScript</b><br>
-<sub>Type-safe development</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" height="60" /><br>
-<b>Open Source</b><br>
-<sub>Contribute to 10+ projects</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60" height="60" /><br>
-<b>DevOps Basics</b><br>
-<sub>Docker, CI/CD pipelines</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<!-- Add your best projects here when you have them -->
-*Coming soon! Working on some exciting projects...*
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nana-Kofi-Agyin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nana-kofi-agyin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malvinamoah059@gmail.com)
-
-</div>
-
-<div align="center">
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  
-**⭐️ From [Nana-Kofi-Agyin](https://github.com/Nana-Kofi-Agyin) | Last Updated: January 2026**
-
-</div>
+If you send your real LinkedIn/portfolio/X/email, I’ll replace those placeholders too.
