@@ -55,10 +55,9 @@ I'm currently strengthening my core full-stack skills while gradually exploring 
 </div>
 
 ### 📫 LET'S CONNECT!
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio](https://yourwebsite.com)  
-- 🐦 [X / Twitter](https://x.com/yourhandle)  
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nana-kofi-agyin)  
+- 🌐 [Portfolio](https://nana-kofi-agyin.vercel.app/)  
+- 📧 [Email](mailto:malvinamoah059@gmail.com)
 
 ---
 
