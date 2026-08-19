@@ -30,10 +30,10 @@ I'm currently strengthening my core full-stack skills while gradually exploring 
 ### 🛠️ TECH STACK
 
 **Frontend & UI**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,shadcn" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,javascript" />
 
 **Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,python,nestjs,fastapi,postgresql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,nestjs,postgresql,mongodb" />
 
 **Cloud, Tools & AI**  
 <img src="https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,supabase,langchain,git,githubactions" />
